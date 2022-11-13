@@ -40,7 +40,7 @@ src="https://img.shields.io/github/followers/3jbh?logo=github&style=for-the-badg
 
 
 <h2><strong>📞 Contact Me: Skeleton#0033</strong></h2>
-<a href="https://discord.com/users/888899856389783574"><img align="left" src="https://lanyard.cnrad.dev/api/888899856389783574"></a>
+<a href="https://discord.com/users/976532386688958515"><img align="left" src="https://lanyard.cnrad.dev/api/976532386688958515"></a>
 
 
   ![Snake animation](https://github.com/3JBH/3JBH/blob/output/github-contribution-grid-snake.svg)
